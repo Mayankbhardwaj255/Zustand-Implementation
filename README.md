@@ -52,4 +52,16 @@ habit-tracker/
 │   ├── index.js
 ├── README.md
 ```
+🧩 How to Run Locally
+```bash
+git clone https://github.com/your-username/habit-tracker.git
+cd habit-tracker
+npm install
+npm start
+```
+
+🙌 Final Thoughts
+Zustand offers a lean and developer-friendly alternative to Redux, especially for small-to-medium React apps. With this Habit Tracker, I was able to build a complete app with less code, simpler logic, and better performance.
+
+Feel free to fork this repo or give it a ⭐ if it helps you!
 
