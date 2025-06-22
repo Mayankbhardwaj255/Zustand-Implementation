@@ -57,7 +57,7 @@ habit-tracker/
 git clone https://github.com/your-username/habit-tracker.git
 cd habit-tracker
 npm install
-npm start
+npm run dev
 ```
 
 🙌 Final Thoughts
